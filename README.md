@@ -8,4 +8,4 @@
 > Remember : please scroll up and press run and copy the result. 
 
 ### Example
-- Link : https://github.com/xSupFC
+- Link : https://raw.githubusercontent.com/xSupFC/Obfuscate/main/example.lua
